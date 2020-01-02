@@ -1,0 +1,84 @@
+{
+  "landing": {
+    "firstName": "Christopher",
+    "lastName": " Stuart",
+    "phoneNumber": "",
+    "bio": "I am passionate about JavaScript and building web applications.  After a long career in the financial services industry, I have decided to follow my passion for programming.  I am self-taught and have been building websites since the early 2000s, starting out with simple HTML/CSS and morphing into a bit of JavaScript, PHP and (ASP--way back in the day).  Some of the highlights include a New England travel deals (built using PHP) website styled after Groupon (Insider Trips), a stock short selling subscription website (Shortzilla) and a more recent deals website (Dealmazing) built using Python and Django. <br />It has really been the last few years in which I found a love for JavaScript and started immersing myself in anything I could get my hands on to build my knowledge.  I also formally expanded my skillset by completing both a Full Stack JavaScript and Python Techdegree from Treehouse.  My latest accomplishment was the completion of the Full Stack Open course from the University of Helsinki, which provides a deep dive on JavaScript, React and Graph QL. <br />Due to my strong entrepreneurial drive I have learned a lot about the best practices for SEO and SEM, while also building appealing, user friendly interfaces. My goal is to build web applications with the best practices and latest technology while continuing to refine and enhance my programming skills.  Besides coding, I enjoy traveling and investing, running, sports, and spending time with my wife, two girls and dog.",
+    "email": "crstuart@gmail.com",
+    "linkedin": "",
+    "github": "https://github.com/pythoncreate"
+  },
+  "experience": [
+    {
+      "position": "GitHub Campus Expert",
+      "organization": "GitHub",
+      "aboutWork": "Responsible for building the on campus community with the support of GitHub.",
+      "fromDate": "August 2018",
+      "toDate": "Present"
+    },
+    {
+      "position": "Opensource Developer Intern",
+      "organization": "Fossasia",
+      "aboutWork": "Contributing to Fossasia's open event server and frontend as an intern. Resolved numerous bugs and added new features to the eventyay platform.",
+      "fromDate": "June 2019",
+      "toDate": "Present"
+    },
+    {
+      "position": "Software Developer Intern",
+      "organization": "Hasura",
+      "aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
+      "fromDate": "December 2018",
+      "toDate": "January 2019"
+    }
+  ],
+  "education": [
+    {
+      "university": "Indian Institute of Information Technology Allahabad",
+      "degree": "Bachelor of Technology",
+      "gpa": "12.34",
+      "fromDate": "August 2016",
+      "toDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Nodejs"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "Redux"
+    }
+  ],
+  "interests": {
+    "paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
+    "paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+  },
+  "awards": [
+    {
+      "awardDetail": "Hack 36 3rd prize winner."
+    },
+    {
+      "awardDetail": "Mentor OpenCode'19"
+    },
+    {
+      "awardDetail": "Started North India's First Student Design and Developer Conference."
+    }
+  ]
+}
