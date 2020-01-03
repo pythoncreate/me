@@ -18,7 +18,7 @@ class Skills extends Component {
         <div className="w-100">
           <h2 className="mb-5">Skills</h2>
           <div className="subheading mb-3">
-            Programming Languages &amp; Tools
+            Programming Languages, Skills &amp; Tools
           </div>
           <div className="row">
             {this.skills.map((data, index) => (
