@@ -3,7 +3,8 @@
 
 .jumbotron {
   color: white;
-  background-image: url(`${process.env.PUBLIC_URL}/images/full-stack.JPG`});
+  background-image: url({`${process.env.PUBLIC_URL}/images/full-stack.JPG`});
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
