@@ -32,7 +32,7 @@ class Landing extends Component {
           <h2>Full Stack Developer in Boston, MA</h2>
           <a
             className="btn btn-primary btn-lg mt-4"
-            href="/Chris-Resume-2020.pdf"
+            href="/me/Chris-Resume-2020.pdf"
             role="button"
           >
             View Resume
