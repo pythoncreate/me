@@ -27,7 +27,7 @@ class Portfolio extends Component {
                 data-target="#modal1"
               >
                 <img
-                  src="http://localhost:3000/images/dealmazing.JPG"
+                  src={`${process.env.PUBLIC_URL}/images/dealmazing.JPG`}
                   className="portfolio-image"
                   alt="sample"
                 />
@@ -45,7 +45,7 @@ class Portfolio extends Component {
                 data-target="#modal2"
               >
                 <img
-                  src="http://localhost:3000/images/crypto-portal.JPG"
+                  src={`${process.env.PUBLIC_URL}/images/crypto-portal.JPG`}
                   className="portfolio-image"
                   alt="sample"
                 />
@@ -65,7 +65,7 @@ class Portfolio extends Component {
                 data-target="#modal3"
               >
                 <img
-                  src="http://localhost:3000/images/phonebook.JPG"
+                  src={`${process.env.PUBLIC_URL}/images/phonebook.JPG`}
                   className="portfolio-image"
                   alt="sample"
                 />
@@ -83,7 +83,7 @@ class Portfolio extends Component {
                 data-target="#modal4"
               >
                 <img
-                  src="http://localhost:3000/images/blog-app.JPG"
+                  src={`${process.env.PUBLIC_URL}/images/blog-app.JPG`}
                   className="portfolio-image"
                   alt="sample"
                 />
@@ -101,7 +101,7 @@ class Portfolio extends Component {
                 data-target="#modal5"
               >
                 <img
-                  src="http://localhost:3000/images/all-vintage-search.JPG"
+                  src={`${process.env.PUBLIC_URL}/images/all-vintage-search.JPG`}
                   className="portfolio-image"
                   alt="sample"
                 />
@@ -121,7 +121,7 @@ class Portfolio extends Component {
                 data-target="#modal6"
               >
                 <img
-                  src="http://localhost:3000/images/all-vintage-cards.JPG"
+                  src={`${process.env.PUBLIC_URL}/images/all-vintage-cards.JPG`}
                   className="portfolio-image"
                   alt="sample"
                 />
@@ -158,7 +158,7 @@ class Portfolio extends Component {
                         <p>
                           {" "}
                           <img
-                            src="http://localhost:3000/images/dealmazing.JPG"
+                            src={`${process.env.PUBLIC_URL}/images/dealmazing.JPG`}
                             className="img-fluid"
                             alt="sample"
                           />
@@ -223,7 +223,7 @@ class Portfolio extends Component {
                         <p>
                           {" "}
                           <img
-                            src="http://localhost:3000/images/crypto-portal.JPG"
+                            src={`${process.env.PUBLIC_URL}/images/crypto-portal.JPG`}
                             className="img-fluid"
                             alt="sample"
                           />
@@ -292,7 +292,7 @@ class Portfolio extends Component {
                         <p>
                           {" "}
                           <img
-                            src="http://localhost:3000/images/phonebook.JPG"
+                            src={`${process.env.PUBLIC_URL}/images/phonebook.JPG`}
                             className="img-fluid"
                             alt="sample"
                           />
@@ -356,7 +356,7 @@ class Portfolio extends Component {
                         <p>
                           {" "}
                           <img
-                            src="http://localhost:3000/images/blog-app.JPG"
+                            src={`${process.env.PUBLIC_URL}/images/blog-app.JPG`}
                             className="img-fluid"
                             alt="sample"
                           />
@@ -425,7 +425,7 @@ class Portfolio extends Component {
                         <p>
                           {" "}
                           <img
-                            src="http://localhost:3000/images/all-vintage-search.JPG"
+                            src={`${process.env.PUBLIC_URL}/images/all-vintage-search.JPG`}
                             className="img-fluid"
                             alt="sample"
                           />
@@ -491,7 +491,7 @@ class Portfolio extends Component {
                         <p>
                           {" "}
                           <img
-                            src="http://localhost:3000/images/all-vintage-cards.JPG"
+                            src={`${process.env.PUBLIC_URL}/images/all-vintage-cards.JPG`}
                             className="img-fluid"
                             alt="sample"
                           />
