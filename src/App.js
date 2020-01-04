@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import Sidebar from "./Components/Sidebar";
 import About from "./Components/About";
+import Contact from "./Components/Contact";
 import Landing from "./Components/Landing";
 import Skills from "./Components/Skills";
 import Portfolio from "./Components/Portfolio";
-import Contact from "./Components/Contact";
 import profileData from "./profileData.json";
 
 class App extends Component {
